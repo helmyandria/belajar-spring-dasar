@@ -24,3 +24,6 @@
 
 ### Depends On
 * DependsOnTest.java
+
+### Lazy Bean
+* LazyBeanTest.java
