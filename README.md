@@ -27,3 +27,6 @@
 
 ### Lazy Bean
 * LazyBeanTest.java
+
+### Scope
+* ScopeTest.java
