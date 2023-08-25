@@ -36,3 +36,6 @@
 
 ### Life Cycle
 * LifeCycleTest.java
+
+### Life Cycle Annotation
+* LifeCycleTest.java
