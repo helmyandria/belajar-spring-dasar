@@ -34,6 +34,9 @@
 ### Create Scope Custome
 * ScopeTest.java
 
+### Import Configuration Class
+* ImportTest.java
+
 ### Life Cycle
 * LifeCycleTest.java
 
