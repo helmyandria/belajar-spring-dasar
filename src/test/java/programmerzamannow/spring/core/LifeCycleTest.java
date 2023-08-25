@@ -7,6 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import programmerzamannow.spring.core.data.Connection;
+import programmerzamannow.spring.core.data.Server;
 
 public class LifeCycleTest {
 
@@ -27,5 +28,10 @@ public class LifeCycleTest {
     void testConnection() {
         Connection connection = applicationContext.getBean(Connection.class);
 
+    }
+
+    @Test
+    void testServer() {
+        Server server = applicationContext.getBean(Server.class);
     }
 }
