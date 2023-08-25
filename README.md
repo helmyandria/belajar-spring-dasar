@@ -42,3 +42,6 @@
 
 ### Life Cycle Annotation
 * LifeCycleTest.java
+
+### Component Scan
+* ScanTest.java
