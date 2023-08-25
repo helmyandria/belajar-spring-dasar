@@ -1,4 +1,4 @@
-package scope;
+package programmerzamannow.spring.core.scope;
 
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.beans.factory.config.Scope;

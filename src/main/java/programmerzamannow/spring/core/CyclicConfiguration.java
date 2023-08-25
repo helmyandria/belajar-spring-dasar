@@ -2,9 +2,9 @@ package programmerzamannow.spring.core;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import programmerzamannow.spring.core.cyclic.CyclicA;
-import programmerzamannow.spring.core.cyclic.CyclicB;
-import programmerzamannow.spring.core.cyclic.CyclicC;
+import programmerzamannow.spring.core.data.cyclic.CyclicA;
+import programmerzamannow.spring.core.data.cyclic.CyclicB;
+import programmerzamannow.spring.core.data.cyclic.CyclicC;
 
 @Configuration
 public class CyclicConfiguration {

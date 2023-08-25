@@ -1,4 +1,4 @@
-package programmerzamannow.spring.core.cyclic;
+package programmerzamannow.spring.core.data.cyclic;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
