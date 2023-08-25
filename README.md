@@ -51,3 +51,6 @@
 
 ### Constructor-based Dependency Injection
 * ComponentTest.java
+
+### Setter-based Dependency Injection
+* ComponentTest.java
