@@ -45,3 +45,6 @@
 
 ### Component Scan
 * ScanTest.java
+
+### Component
+* ComponentTest.java
