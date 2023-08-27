@@ -57,3 +57,6 @@
 
 ### Field-based Dependency Injection
 * ComponentTest.java
+
+### Qualifier
+* ComponentTest.java
