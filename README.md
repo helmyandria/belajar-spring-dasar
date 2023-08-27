@@ -54,3 +54,6 @@
 
 ### Setter-based Dependency Injection
 * ComponentTest.java
+
+### Field-based Dependency Injection
+* ComponentTest.java
