@@ -63,3 +63,6 @@
 
 ### Optional Dependency
 * ComponentTest.java
+
+### Factory Bean
+* FactoryTest.java
