@@ -66,3 +66,6 @@
 
 ### Factory Bean
 * FactoryTest.java
+
+### Inheritance
+* InheritanceTest.java
