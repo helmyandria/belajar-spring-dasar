@@ -78,3 +78,6 @@
 
 ### Ordered
 * OrderedTest.java
+
+### Aware
+* AwareTest.java
