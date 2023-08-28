@@ -72,3 +72,6 @@
 
 ### Bean Factory
 * BeanFactoryTest.java
+
+### Bean Post Processor
+* BeanPostProcessorTest.java
