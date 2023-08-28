@@ -81,3 +81,6 @@
 
 ### Aware
 * AwareTest.java
+
+### Bean Factory Post Processor
+* BeanFactoryPostProcessorTest.java
