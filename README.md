@@ -75,3 +75,6 @@
 
 ### Bean Post Processor
 * BeanPostProcessorTest.java
+
+### Ordered
+* OrderedTest.java
