@@ -69,3 +69,6 @@
 
 ### Inheritance
 * InheritanceTest.java
+
+### Bean Factory
+* BeanFactoryTest.java
