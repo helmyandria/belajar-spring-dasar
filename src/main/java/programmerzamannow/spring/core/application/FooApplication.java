@@ -8,6 +8,9 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 import programmerzamannow.spring.core.data.Bar;
 import programmerzamannow.spring.core.data.Foo;
+import programmerzamannow.spring.core.listener.AppStartingListener;
+
+import java.util.List;
 
 @SpringBootApplication
 public class FooApplication {
@@ -35,6 +38,7 @@ public class FooApplication {
     public static void main(String[] args) {
         SpringApplication application = new SpringApplication(FooApplication.class);
         application.setBannerMode(Banner.Mode.OFF);
+        application.setListeners(List.of(new AppStartingListener()));
 
         ConfigurableApplicationContext applicationContext = application.run(args);
 
