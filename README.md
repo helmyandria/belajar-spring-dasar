@@ -96,3 +96,6 @@
 
 ### Startup Failure
 * WithoutSpringBootTest.java
+
+### Banner
+* resource > banner.txt
