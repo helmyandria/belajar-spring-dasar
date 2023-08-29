@@ -99,3 +99,6 @@
 
 ### Banner
 * resource > banner.txt
+
+### Customizing Spring Application
+* FooApplication.java
