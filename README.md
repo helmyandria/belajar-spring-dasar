@@ -102,3 +102,9 @@
 
 ### Customizing Spring Application
 * FooApplication.java
+
+### Spring Application Event
+* AppStartingListener.java
+
+### Command Line Runner
+* CommandApplication.java
