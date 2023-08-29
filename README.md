@@ -90,3 +90,9 @@
 
 ### Event Listener Annotation
 * EventListenerTest.java
+
+### Spring Boot Application
+* FooApplicationTest.java
+
+### Startup Failure
+* WithoutSpringBootTest.java
