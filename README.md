@@ -108,3 +108,6 @@
 
 ### Command Line Runner
 * CommandApplication.java
+
+### Application Runner
+* RunnerApplication.java
